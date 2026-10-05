@@ -6,10 +6,12 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1MprASf2G2/) <br> 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/roheeeeee__?stkn=MTB2N2pvdm9qdXJ5YQ==) 
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soniya-shaik-8191b9329) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soniya-shaik-8191b9329)
+<br> 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)]
+(https://pinterest.com/https://pin.it/3D7m6amrV)
 <br>
-(https://pinterest.com/https://pin.it/3D7m6amrV) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]
-<br>
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)]
 (https://x.com/https://x.com/hikmahshaikh29_) 
 <br>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCWbSYnJSMn_4TFR5WAIVoTw) 
